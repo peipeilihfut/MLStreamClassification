@@ -81,7 +81,7 @@ cellSpacing="0" cellPadding="0">
     <TD align="center"><B>numerical</B></TD>
   </TR>
    <TR>
-    <TD align="center"><B><A onclick="stc(this, 26)" href="https://github.com/BlindReviewAAAI18/FSbasedMultiLabelStreamClassification/blob/master/mediamill.rar" 
+    <TD align="center"><B><A onclick="stc(this, 26)" href="https://github.com/peipeilihfut/MLStreamClassification/blob/master/mediamill.rar" 
 target="_new">Mediamill</A></B></TD>
     <TD align="center"><B>vedio</B></TD>
     <TD align="center"><B>30993</B></TD>
@@ -93,7 +93,7 @@ target="_new">Mediamill</A></B></TD>
     <TD align="center"><B>0.043</B></TD>
   </TR>
   <TR>
-    <TD align="center"><B><A onclick="stc(this, 26)" href="https://github.com/BlindReviewAAAI18/FSbasedMultiLabelStreamClassification/blob/master/IMDB-ECC-F.rar" 
+    <TD align="center"><B><A onclick="stc(this, 26)" href="https://github.com/peipeilihfut/MLStreamClassification/blob/master/IMDB-ECC-F.rar" 
 target="_new">IMDB-ECC-F</A></B></TD>
     <TD align="center"><B>Movie</B></TD>
     <TD align="center"><B>76143</B></TD>
@@ -105,7 +105,7 @@ target="_new">IMDB-ECC-F</A></B></TD>
     <TD align="center"><B>0.036</B></TD>
   </TR>
   <TR>
-    <TD align="center"><B><A onclick="stc(this, 26)" href="https://github.com/BlindReviewAAAI18/FSbasedMultiLabelStreamClassification/blob/master/Core16k010.rar" 
+    <TD align="center"><B><A onclick="stc(this, 26)" href="https://github.com/peipeilihfut/MLStreamClassification/blob/master/Core16k010.rar" 
 target="_new">Corel16k010</A></B></TD>
     <TD align="center"><B>images</B></TD>
     <TD align="center"><B>13618</B></TD>
@@ -117,7 +117,7 @@ target="_new">Corel16k010</A></B></TD>
     <TD align="center"><B>0.017</B></TD>
   </TR>
    <TR>
-    <TD align="center"><B><A onclick="stc(this, 26)" href="https://github.com/BlindReviewAAAI18/FSbasedMultiLabelStreamClassification/blob/master/nuswide-bow-train.rar" 
+    <TD align="center"><B><A onclick="stc(this, 26)" href="https://github.com/peipeilihfut/MLStreamClassification/blob/master/nuswide-bow-train.rar" 
 target="_new">NUS-WIDE</A></B></TD>
     <TD align="center"><B>images</B></TD>
     <TD align="center"><B>161789</B></TD>
@@ -129,7 +129,7 @@ target="_new">NUS-WIDE</A></B></TD>
     <TD align="center"><B>0.023</B></TD>
   </TR>
   <TR>
-    <TD align="center"><B><A onclick="stc(this, 26)" href="https://github.com/BlindReviewAAAI18/FSbasedMultiLabelStreamClassification/blob/master/eurlex-directory-codes.rar" 
+    <TD align="center"><B><A onclick="stc(this, 26)" href="https://github.com/peipeilihfut/MLStreamClassification/blob/master/eurlex-directory-codes.rar" 
 target="_new">EUR-Lex(subject matters)</A></B></TD>
     <TD align="center"><B>text</B></TD>
     <TD align="center"><B>17414</B></TD>
@@ -141,7 +141,7 @@ target="_new">EUR-Lex(subject matters)</A></B></TD>
     <TD align="center"><B>0.011</B></TD>
   </TR>
   <TR>
-    <TD align="center"><B><A onclick="stc(this, 26)" href="https://github.com/BlindReviewAAAI18/FSbasedMultiLabelStreamClassification/blob/master/bookmarks.rar" 
+    <TD align="center"><B><A onclick="stc(this, 26)" href="https://github.com/peipeilihfut/MLStreamClassification/blob/master/bookmarks.rar" 
 target="_new">bookmarks</A></B></TD>
     <TD align="center"><B>text</B></TD>
     <TD align="center"><B>70045</B></TD>
@@ -159,15 +159,15 @@ target="_new">bookmarks</A></B></TD>
 <DIV class="conM ">
 <DIV style="clear: both;"></DIV>
 <DIV class="conM ">
-<H2>You can download souce codes of the whole project here: <A onclick="stc(this, 26)" href="https://github.com/BlindReviewAAAI18/FSbasedMultiLabelStreamClassification/blob/master/mulan.rar" 
+<H2>You can download souce codes of the whole project here: <A onclick="stc(this, 26)" href="https://github.com/peipeilihfut/MLStreamClassification/blob/master/mulan.rar" 
 target="_new">Project Download</A></H2>
 <P> Base classifiers used in our approach are MLKNN (KNN based multi-label classification method) and MLRDT (Random Decision Tree based multi-label classification method).
 The souce code of MLKNN is from an open-source Java library for learning from Multi-label data, called  <A onclick="stc(this, 26)" href="http://mulan.sourceforge.net/index.html" 
 target="_new">Mulan </A>.
 And the souce code of MLRDT is from the open souce, called the <A onclick="stc(this, 26)" href="http://www.dice4dm.com/" 
 target="_new">Dice </A> project.</P>
-<P> Our project is built on the mulan project. Source codes of our approach include the feature selection for multi-label data stream in the <A onclick="stc(this, 26)" href="https://github.com/BlindReviewAAAI18/FSbasedMultiLabelStreamClassification/blob/master/feasel.rar" 
-target="_new"> feasel</A> zip file, and the <A onclick="stc(this, 26)" href="https://github.com/BlindReviewAAAI18/FSbasedMultiLabelStreamClassification/blob/master/ML_MRMR_FSClassification.java" 
+<P> Our project is built on the mulan project. Source codes of our approach include the feature selection for multi-label data stream in the <A onclick="stc(this, 26)" href="https://github.com/peipeilihfut/MLStreamClassification/blob/master/feasel.rar" 
+target="_new"> feasel</A> zip file, and the <A onclick="stc(this, 26)" href="https://github.com/peipeilihfut/MLStreamClassification/blob/master/ML_MRMR_FSClassification.java" 
 target="_new"> ML_MRMR_FSClassification</A>  java file.</P>
 </DIV>
 <H2>Parameter Discription</H2>
