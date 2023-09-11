@@ -1,4 +1,4 @@
-# MLStreamClassification
+# Multi-label Data Stream Classification
 <B>High-dimensional Multi-label Data Stream Classification with Concept Drifting Detection</B>
 <P>Multi-label data stream classification is a very challenging and significant task especially in the handling of high-dimensional data streams with concept drifts. However, this
 challenge has received little attention from the research community. Therefore, we propose a max-relevance and min-redundancy based algorithm adaptation approach for the efficient and effective classification on multi-label data streams
