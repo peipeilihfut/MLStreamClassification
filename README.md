@@ -159,6 +159,9 @@ target="_new">bookmarks</A></B></TD>
 <DIV class="conM ">
 <DIV style="clear: both;"></DIV>
 <DIV class="conM ">
+<H2>References</H2>
+<P>[1] Pei-Pei Li, Haixiang Zhang, Xuegang Hu, Xindong Wu:
+High-Dimensional Multi-Label Data Stream Classification With Concept Drifting Detection. IEEE Trans. Knowl. Data Eng. 35(8): 8085-8099 (2023)</P>
 <H2>You can download souce codes of the whole project here: <A onclick="stc(this, 26)" href="https://github.com/peipeilihfut/MLStreamClassification/blob/master/mulan.rar" 
 target="_new">Project Download</A></H2>
 <P> Base classifiers used in our approach are MLKNN (KNN based multi-label classification method) and MLRDT (Random Decision Tree based multi-label classification method).
